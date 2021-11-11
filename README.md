@@ -8,9 +8,7 @@ Site de estudo: Danki Code
 <head>
 		<title>Magali</title>
 		<meta charset="utf-8" />
-		<style type="text/css">
-			
-		</style>
+		
 </head>
 
 <body>
@@ -46,7 +44,7 @@ Site de estudo: Danki Code
 	<img src="Saved Pictures/gatinho.jpg" width="300"/> 
 	
 
-	<h2 style="color:sandybrown;">Gostou da história? Veja mais no Instagram</h2> 
+		<h2 style="color:sandybrown;">Gostou da história? Veja mais no Instagram</h2> 
 
 	<h2 style="color:brown;"> <a href="https://www.instagram.com/crochedamagalii/">Instagram</a></h2>
 
